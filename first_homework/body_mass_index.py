@@ -6,4 +6,4 @@ if height < 0 and weight < 0 :
 
 body_mass_index = weight / (height * height)
 
-print(f"Your mass index is {body_mass_index} percentage.")
+print(f"Your body mass index is {body_mass_index} ")
